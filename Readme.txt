@@ -1,3 +1,7 @@
+
+To download this tool in linux follow these steps :
+       - git clone https://github.com/Techspoofer/WebScrapper.git
+
 Firstly update your OS
   - apt update && upgrade
 
